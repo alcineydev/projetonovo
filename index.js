@@ -1,5 +1,5 @@
-console.log('Hello, world!');
-function somar(a, b) {
-    console.log(a + b);
-}
-somar(1, 2);
+var pessoas;
+var idade;
+idade = [18, 20, 25];
+pessoas = ['Lucas', 'João', 'Maria'];
+console.log(pessoas, idade);

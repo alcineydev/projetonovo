@@ -1,7 +1,7 @@
-console.log ('Hello, world!');
 
-function somar(a: number, b: number){
-    console.log (a + b);
-}
+let pessoas: string[];
+let idade: number[];
+idade = [18, 20, 25];
+pessoas = ['Lucas', 'João', 'Maria'];
 
-somar(1, 2);
+console.log(pessoas, idade);
